@@ -1,0 +1,20 @@
+{
+  "name": "@edud/mark-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx src/index.ts",
+    "dev": "npx tsx watch src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "20.10.4",
+    "tsx": "4.6.2"
+  },
+  "dependencies": {
+    "sharp": "0.33.0"
+  }
+}
