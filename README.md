@@ -1,7 +1,7 @@
 # Image Transform
 Resizes a list of images and adds a watermark to each of them.
 
-### Motivation to Create
+<img src="./image.png" alt="Example" style="max-width: 300px; height: auto;">
 
 ### How to Use
 1. Clone this repository to your local machine.
